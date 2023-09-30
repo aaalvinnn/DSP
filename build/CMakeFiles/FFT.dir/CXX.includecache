@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zsw/Projects/FFT/Complex.h
+vector
+-
+
+/home/zsw/Projects/FFT/FFT.h
+Complex.h
+/home/zsw/Projects/FFT/Complex.h
+vector
+-
+
+/home/zsw/Projects/FFT/main.cpp
+iostream
+-
+FFT.h
+/home/zsw/Projects/FFT/FFT.h
+Complex.h
+/home/zsw/Projects/FFT/Complex.h
+

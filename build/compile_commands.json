@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/zsw/Projects/FFT/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -o CMakeFiles/FFT.dir/main.cpp.o -c /home/zsw/Projects/FFT/main.cpp",
+  "file": "/home/zsw/Projects/FFT/main.cpp"
+},
+{
+  "directory": "/home/zsw/Projects/FFT/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -o CMakeFiles/FFT.dir/FFT.cpp.o -c /home/zsw/Projects/FFT/FFT.cpp",
+  "file": "/home/zsw/Projects/FFT/FFT.cpp"
+},
+{
+  "directory": "/home/zsw/Projects/FFT/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -o CMakeFiles/FFT.dir/Complex.cpp.o -c /home/zsw/Projects/FFT/Complex.cpp",
+  "file": "/home/zsw/Projects/FFT/Complex.cpp"
+}
+]
