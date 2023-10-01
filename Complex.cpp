@@ -22,7 +22,7 @@ std::vector<double> Complex::get_value()
 
 void Complex::print_value()
 {
-    std::cout << this->Re << "+" << this->Im << "j" << std::endl;
+    std::cout << this->Re << " + " << this->Im << "j" << std::endl;
 }
 
 Complex Complex::operator+(Complex &object)

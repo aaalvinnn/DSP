@@ -4,8 +4,9 @@
 #include "Complex.h"
 #include <vector>
 
-Complex FFT(double x);
+std::vector<Complex> FFT(std::vector<double>& x);
 
-void say_hello();
+std::vector<std::vector<double>> _slide(std::vector<double>& x);
 
+Complex _rotater(int down, int up);
 #endif
